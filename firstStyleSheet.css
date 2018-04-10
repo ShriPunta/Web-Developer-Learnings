@@ -1,0 +1,24 @@
+/*all selector applies the attributes to all*/
+*{
+	border: 1px solid red;
+}
+
+/*nested selector*/
+ul li{
+	border: 2px solid yellow;
+}
+
+/*adjacent selector*/
+ul + h4{
+	background: yellow;
+}
+
+/*specific attribute selector*/
+input[type="checkbox"]:checked{
+	width: 2000px;
+}
+
+/*select every nth element*/
+li:nth-of-type(2){
+	background: purple;
+}
