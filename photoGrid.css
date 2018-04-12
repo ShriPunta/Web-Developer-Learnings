@@ -1,0 +1,15 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%
+}
+
+p {
+	font-family: 'Gugi', cursive;
+	margin: 1.66%;
+	font-size: 30px;
+	font-weight: 700;
+	border-bottom: 3px solid black;
+	width: 30%;
+	padding-bottom: 15px;
+}

@@ -1,0 +1,28 @@
+body {
+	
+	background: pink;
+}
+
+h1 {
+	text-align: center;
+}
+
+td {
+	width: 150px;
+	height: 150px;
+}
+
+.verti {
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+.horiz {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+#ThisTable{
+	align-self: center;
+	margin: 50px auto 50px auto;
+}
